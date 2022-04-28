@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="how_was_the_service">como foi o serviço?</string>
+    <string name="amazing_service">Incrivel</string>
+    <string name="good_service">Bom</string>
+    <string name="ok_service">Ok</string>
+    <string name="bad_service">Ruim</string>
+    <string name="round_up_tip">Arredondar a gorjeta?</string>
+    <string name="calculate">Calcular</string>
+    <string name="cost_of_service">Custo do serviço</string>
+    <string name="tip_amount">Valor da Gorjeta: %s</string>
+    <string name="app_name">Hora da gorjeta</string>
+</resources>

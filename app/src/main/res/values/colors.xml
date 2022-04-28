@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
+    <color name="primaryColor">#b867c6</color>
+    <color name="primaryLightColor">#ec97f9</color>
+    <color name="primaryDarkColor">#863895</color>
+    <color name="secondaryColor">#ce93d8</color>
+    <color name="secondaryLightColor">#ffc4ff</color>
+    <color name="secondaryDarkColor">#9c64a6</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+
+        <color name="primaryColor_dark">#6a1b9a</color>
+        <color name="primaryLightColor_dark">#9c4dcc</color>
+        <color name="primaryDarkColor_dark">#38006b</color>
+        <color name="secondaryColor_dark">#4a148c</color>
+        <color name="secondaryLightColor_dark">#7c43bd</color>
+        <color name="secondaryDarkColor_dark">#12005e</color>
+        <color name="primaryTextColor_dark">#ffffff</color>
+        <color name="secondaryTextColor_dark">#ffffff</color>
+
+
+
+
+
+
+
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
